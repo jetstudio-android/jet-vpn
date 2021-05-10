@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23790358620",
+    "project_id": "jet-vpn-cff7a",
+    "storage_bucket": "jet-vpn-cff7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23790358620:android:e72cf61e60b17dc2cd1699",
+        "android_client_info": {
+          "package_name": "io.jetstudio.jetvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23790358620-8ja6sskv5a8eiaul6vl79ghte04sc2tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97haQpOVSnNdxcdxALmOX99_NONbWsyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23790358620-8ja6sskv5a8eiaul6vl79ghte04sc2tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
